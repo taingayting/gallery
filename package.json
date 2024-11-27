@@ -1,0 +1,19 @@
+{
+  "name": "mern-ecommerce-2024-ma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ayting",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taingayting/gallery.git"
+  },
+  "bugs": {
+    "url": "https://github.com/taingayting/gallery/issues"
+  },
+  "homepage": "https://github.com/taingayting/gallery#readme"
+}
